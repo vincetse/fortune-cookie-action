@@ -1,0 +1,24 @@
+{
+  "name": "fortune-cookie-action",
+  "version": "1.0.0",
+  "description": "A fortune cookie for your CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincetse/fortune-cookie-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincetse/fortune-cookie-action/issues"
+  },
+  "homepage": "https://github.com/vincetse/fortune-cookie-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1",
+    "fortune-cookie": "0.0.1"
+  }
+}
