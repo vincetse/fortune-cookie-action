@@ -1,5 +1,8 @@
-name: 'Fortune Cookie'
+name: 'CI Fortune Cookie'
 description: 'A fortune cookie for your CI'
 runs:
   using: 'node12'
   main: 'index.js'
+branding:
+  icon: 'battery'
+  color: 'orange'
