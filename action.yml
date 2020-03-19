@@ -2,7 +2,7 @@ name: 'CI Fortune Cookie'
 description: 'A fortune cookie for your CI'
 runs:
   using: 'node12'
-  main: 'index.js'
+  main: 'src/index.js'
 branding:
   icon: 'battery'
   color: 'orange'
