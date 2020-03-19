@@ -19,6 +19,7 @@
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@actions/github": "^2.1.1",
+    "cowsay": "^1.4.0",
     "fortune-cookie": "0.0.1"
   }
 }
