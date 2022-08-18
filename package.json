@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/vincetse/fortune-cookie-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^2.1.1",
     "cowsay2": "^2.0.4",
     "fortune-cookie": "0.0.1"
